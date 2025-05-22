@@ -69,4 +69,4 @@ Este projeto aplica **clusterização com o algoritmo K-Means** para segmentar c
 
 **Iago Alecrim Leite**  
 Analista de Dados com foco em BI, Operações e Experiência do Cliente  
-🔗 [LinkedIn](https://www.linkedin.com/in/iago-alecrim-35b496247/)
+🔗 [LinkedIn](https://www.linkedin.com/in/iago-alecrim/)
